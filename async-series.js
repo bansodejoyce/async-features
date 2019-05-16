@@ -59,5 +59,3 @@ let symbolValueMapping = () =>{
         //return with result
     })
 };
-
-symbolValueMapping()

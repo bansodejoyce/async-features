@@ -2,7 +2,7 @@
 
 const http = require('http');
 const async = require('async');
-const access_key = '47173ef6e1b30e8b4dcc288c0f5d176a';
+const access_key = '47173ef6e1b30e8*************';
 
 let symbolValueMapping = () =>{
     let base = 'AMD';
